@@ -52,9 +52,9 @@ Jelaskan masing-masing maksud kode berikut sesuai nomor kodenya pada laporan pra
     codec: parameter untuk menentukan codec yang digunakan untuk mengompresi data pada file.
 
 ## Analitik dengan DataFrames
-<img src="01_dataframe/1.png" alt="gambar 1" width="500" height="500">
-<img src="01_dataframe/2.png" alt="gambar 2" width="500" height="500">
-<img src="01_dataframe/3.png" alt="gambar 3" width="500" height="500">
+<img src="01_dataframe/1.png" alt="gambar 1" width="500">
+<img src="01_dataframe/2.png" alt="gambar 2" width="500">
+<img src="01_dataframe/3.png" alt="gambar 3" width="500">
 
 ## Membuat DataFrame dari Database Eksternal
 ![img 1](02_dataframe_mysql/1.png )
