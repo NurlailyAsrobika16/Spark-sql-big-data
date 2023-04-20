@@ -57,30 +57,30 @@ Jelaskan masing-masing maksud kode berikut sesuai nomor kodenya pada laporan pra
 <img src="01_dataframe/3.png" alt="gambar 3" width="500">
 
 ## Membuat DataFrame dari Database Eksternal
-![img 1](02_dataframe_mysql/1.png )
+<img src="02_dataframe_mysql/1.png" alt="gambar 1" width="500" >
 
 ## Mengonversi DataFrames ke RDDs
-![img 1](03_convert_df_rdd/1.png)
-![img 2](03_convert_df_rdd/2.png)
+<img src="03_convert_df_rdd/1.png" alt="gambar 2" width="500">
+<img src="03_convert_df_rdd/2.png" alt="gambar 3" width="500">
 
 ## Membuat Datasets
-![img 1](04_datasets/1.png)
-![img 2](04_datasets/2.png)
+<img src="04_datasets/1.png" alt="gambar 4" width="500">
+<img src="04_datasets/2.png" alt="gambar 5" width="500">
 
 ## Mengonversi DataFrame ke Datasets dan sebaliknya
-![img 1](05_convert_df_ds/1.png)
+<img src="05_convert_df_ds/1.png" alt="gambar 6" width="500">
 
 ## Mengakses Metadata menggunakan Catalog
-![img 1](06_access_metadata/1.png)
-![img 2](06_access_metadata/2.png)
-![img 3](06_access_metadata/3.png)
+<img src="06_access_metadata/1.png" alt="gambar 7" width="500">
+<img src="06_access_metadata/2.png" alt="gambar 8" width="500">
+<img src="06_access_metadata/3.png" alt="gambar 9" width="500">
 
 ## Bekerja dengan berkas teks
-![img 1](07_impor_txt/1.png)
+<img src="07_impor_txt/1.png" alt="gambar 10" width="500">
 
 ## Bekerja dengan JSON
-![img 1](08_impor_json/1.png)
+<img src="08_impor_json/1.png" alt="gambar 11" width="500">
 
 ## Bekerja dengan CSV
-![img 1](09_impor_csv/1.png)
-![img 2](09_impor_csv/2.png)
+<img src="09_impor_csv/1.png" alt="gambar 12" width="500">
+<img src="09_impor_csv/2.png" alt="gambar 13" width="500">
